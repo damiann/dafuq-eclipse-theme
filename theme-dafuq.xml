@@ -1,0 +1,45 @@
+<?xml version="1.0" encoding="utf-8"?>
+<colorTheme id="33333" name="Dafuq" modified="2014-11-03 23:47:40" author="Damian Nelson">
+    <searchResultIndication color="#D8D8D8" />
+    <filteredSearchResultIndication color="#D8D8D8" />
+    <occurrenceIndication color="#D10814" />
+    <writeOccurrenceIndication color="#D10814" />
+    <findScope color="#D10814" />
+    <deletionIndication color="#FF0000" />
+    <sourceHoverBackground color="#FFFFFF" />
+    <singleLineComment color="#FFFFFF" />
+    <multiLineComment color="#FFFFFF" />
+    <commentTaskTag color="#FFFFFF" />
+    <javadoc color="#FFFFFF" bold="false" />
+    <javadocLink color="#B8B8B8" />
+    <javadocTag color="#B8B8B8" />
+    <javadocKeyword color="#D9E577" />
+    <class color="#52E3F6" />
+    <interface color="#52E3F6" />
+    <method color="#A7EC21" />
+    <methodDeclaration color="#A7EC21" />
+    <bracket color="#F9FAF4" />
+    <number color="#C48CFF" />
+    <string color="#F5E888" />
+    <operator color="#FF007F" />
+    <keyword color="#FF007F" />
+    <annotation color="#FFFFFF" />
+    <staticMethod color="#A7EC21" />
+    <localVariable color="#B8B8B8" />
+    <localVariableDeclaration color="#B8B8B8" />
+    <field color="#B8B8B8" />
+    <staticField color="#B8B8B8" />
+    <staticFinalField color="#B8B8B8" />
+    <deprecatedMember color="#FF0000" />
+    <inheritedMethod color="#BED6FF" />
+    <abstractMethod color="#BED6FF" />
+    <parameterVariable color="#79ABFF" />
+    <typeArgument color="#B8B8B8" />
+    <typeParameter color="#B8B8B8" />
+    <background color="#272822" />
+    <currentLine color="#5B5A4E" />
+    <foreground color="#B8B8B8" />
+    <lineNumber color="#999999" />
+    <selectionBackground color="#CC9900" />
+    <selectionForeground color="#404040" />
+</colorTheme>
